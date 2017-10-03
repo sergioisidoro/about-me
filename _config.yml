@@ -3,14 +3,14 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
-description:        "a clean, lightweight and minimalistic blog theme for jekyll"
+name:               "Sérgio Isidoro"
+description:        ""
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//kiko.gfjaru.com"
+url:                ""
 author:             "gfjaru"
 twitter:
-  username:         "gfjaru"
+  username:         "smaisidoro"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
@@ -26,9 +26,9 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    href:           "/"
+  - name:           "Blog"
+    href:           "/blog"
 
 # Sass
 sass:
@@ -48,6 +48,13 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
+
+social:
+  stackoverflow: 2943164
+  github: sergioisidoro
+  twitter: smaisidoro
+  facebook: sergio.isidoro
+  linkedin: sergioisidoro
 
 gems:
   - jekyll-seo-tag
