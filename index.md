@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-![hey it's me!](/imgs/pic.jpg){:height="50%" width="50%"}
+![hey it's me!](imgs/pic.jpg){:height="50%" width="50%"}
 
 # About
 I'm a Portuguese Software Engineer living in Helsinki, Finland
