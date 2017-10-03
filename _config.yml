@@ -11,7 +11,7 @@ url:                ""
 author:             "smaisidoro"
 
 # URL
-baseurl:            ""
+baseurl:            "https://sergioisidoro.github.io/about-me/"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title/
 
