@@ -23,7 +23,7 @@ nav:
   - name:           "About"
     href:           "/"
   - name:           "Blog"
-    href:           "/blog"
+    href:           "https://medium.com/@smaisidoro"
   - name:           "CV"
     href:           "/cv"
 
