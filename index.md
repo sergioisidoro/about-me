@@ -10,9 +10,9 @@ For my Bachelors, I Studied Information Systems and Computer engineering in [Ins
 
 In 2013 I came as an exchange student to [Aalto University](http://www.aalto.fi/en/), founded a software company with 2 friends, and latter applied to a full time Masters Degree in Machine Learning and Data mining at Aalto University.
 
-When the company ran out of runway, and ended up failing, I joined [Holvi](www.holvi.com), a payment service provider, as an operations development engineer.
+When the company ran out of runway, and ended up failing, I joined [Holvi](www.holvi.com), a payment service provider, as an operations development engineer. In the meantime I dropped out of my Masters degree, moved to a position of risk management and IT security management, as well as business inteligence and analytics.
 
-In the meantime I dropped out of my Masters degree, moved to a position of risk management and IT security management, as well as business inteligence and analytics. 
+In 2018 I got back to my roots, joining the development team at [KaikuHealth](https://kaikuhealth.com/), contributing as well to the risk management process development.
 
 # Tech
 I don't really know what people want when asking for a "Full stack". 
