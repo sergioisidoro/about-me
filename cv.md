@@ -79,7 +79,7 @@ Technologies:
 * Django
 * SQL
 
-### Risk Office (2017- present)
+### Risk Office (2017- 2018)
 As the organization grew, and since I had developed significant part of the anti-fraud and anti money laundering facilities, I moved to the position of risk officer. In this position I developed and implemented the organization risk management framework based on the standard ISO31000, and later on, developed and implemented the organization IT security management framework based on the standard ISO27000, covering topics such as physical security, authentication mechanisms of Customer Support, training schedules, as well as Change management policies. 
 
 I built a Risk registry using JIRA to track and assign owners to threats to the organization, that included automatic report generation for stakeholders.
@@ -91,7 +91,7 @@ Technologies:
 * ISO31000
 * ISO27000
 
-### Business Analyst (2018 - present)
+### Business Analyst (2018 - 2018)
 As addition to the Risk Officer, I assumed the role of Business analyst, supporting the business owners in data driven decision making.
 
 Technologies:
@@ -100,6 +100,13 @@ Technologies:
 * Python
 * SQL 
 * Redash
+
+### Kaiku Healht (2018 - Present)
+Building Hospital and laboratory integration systems. Helping to get things done, and getting things better :)
+
+Technologies:
+* Ruby
+* Rails
 
 ### Additional information can be found on my [LinkedIn account](https://www.linkedin.com/in/sergioisidoro/)
 
