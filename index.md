@@ -30,7 +30,7 @@ I can deal cards in:
 # Interests & Hobbies
 
 * Circus - [Corde Lisse and Aerial Silks](https://www.instagram.com/p/BY_ajJ6FIy-/?taken-by=smaisidoro) @ Circus Helsinki
-* Sailing apprentice - I have an old Sloop boat that I try not to sink every year. 
+* Sailing apprentice - Well, in Helsinki it's more about obstacle avoidance, not so much about sailing :) 
 * Mökki life - Fishing, Sauna, Boating, Island Hopping, Mushroom and berry picking, Knitting in front of the fireplace?
 
 # Projects
