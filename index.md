@@ -15,10 +15,7 @@ When the company ran out of runway, and ended up failing, I joined [Holvi](www.h
 In 2018 I got back to my roots, joining the development team at [KaikuHealth](https://kaikuhealth.com/), contributing as well to the risk management process development.
 
 # Tech
-I don't really know what people want when asking for a "Full stack". 
-Front-end with back-end skillz? or a Back-end with front-end skills? Jack of all trades, master of none?
-
-The truth is that I do enjoy building small MVPs end to end, and a can make a prototype in every corner of a product.
+ I do enjoy building small MVPs end to end, and a can make a prototype in every corner of a product.
 My swiss army knife tech stack is: Docker + Flask + SQL Alchemy + Bootstrap
 
 I can deal cards in:
@@ -33,10 +30,8 @@ I can deal cards in:
 # Interests & Hobbies
 
 * Circus - [Corde Lisse and Aerial Silks](https://www.instagram.com/p/BY_ajJ6FIy-/?taken-by=smaisidoro) @ Circus Helsinki
-* Gardening and Mycology - Able to sustain plant life at home and in the office. Chilly and Oyster musrhoom cultivation
 * Sailing apprentice - I have an old Sloop boat that I try not to sink every year. 
 * Mökki life - Fishing, Sauna, Boating, Island Hopping, Mushroom and berry picking, Knitting in front of the fireplace?
-
 
 # Projects
 
